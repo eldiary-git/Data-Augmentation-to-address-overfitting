@@ -4,7 +4,7 @@ the project target is to prevent overfitting by increasing Data with different f
 what is Data Augmentation?
 Data augmentation is a technique used in machine learning and deep learning to increase the size of the training dataset by applying various transformations to the existing data. The goal is to improve the performance of the model by providing it with more diverse examples to learn from, while also reducing the risk of overfitting. Some common data augmentation techniques include flipping, rotation, cropping, zooming, and color adjustments. By incorporating data augmentation into the training pipeline, the model can learn to generalize better and perform more accurately on new, unseen data.
 
-#some highlights, small steps in this project
+# some highlights, small steps in this project
 
 - convert images to numpy array then resizing it.
 - doing ( train, test split ), scale the images 
@@ -18,8 +18,12 @@ Now, the accuracy of the test set data increased
 
 # installing steps:
 1- Clone the repository to your local machine using the command git clone <repository URL>.
+ <br>
 2- Navigate to the project directory using the cd command.
+   <br>
 3- Install the dependencies with `npm install`.
+   <br>
 4- Start the server with `npm start`.
+  <br>
 
 
