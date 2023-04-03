@@ -19,6 +19,7 @@ Now, the accuracy of the test set data increased
 # installing steps:
 1- Clone the repository to your local machine using the command git clone <repository URL>.
 2- Navigate to the project directory using the cd command.
-3- 
+3- Install the dependencies with `npm install`.
+4- Start the server with `npm start`.
 
 
